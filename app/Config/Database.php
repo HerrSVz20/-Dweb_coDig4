@@ -27,7 +27,7 @@ class Database extends Config
     public array $default = [
         'DSN'      => '',
         'hostname' => 'localhost',
-        'username' => '',
+        'username' => 'rootcomposer require codeigniter4/framework',
         'password' => '',
         'database' => '',
         'DBDriver' => 'MySQLi',
