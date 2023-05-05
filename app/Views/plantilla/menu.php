@@ -5,7 +5,7 @@
                     <nav class="topbar-nav">
                          <ul class="metismenu" id="metismenu">
                               <li>
-                                   <a href="index.html">
+                                   <a href="<?= base_url('principal') ?>">
                                         <span class="fa fa-tachometer"></span> Principal
                                    </a>
                               </li>
