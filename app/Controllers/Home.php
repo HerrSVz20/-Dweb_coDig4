@@ -13,4 +13,9 @@ class Home extends BaseController
     {
         return view('calendario');
     }
+
+    public function principal()
+    {
+        return view('principal');
+    }
 }
